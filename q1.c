@@ -34,7 +34,7 @@ int main(){
 int n;
   int i;
   int j;
-char V[i];
+char V[102];
   int leds=0;
 
   scanf("%d" , &n);

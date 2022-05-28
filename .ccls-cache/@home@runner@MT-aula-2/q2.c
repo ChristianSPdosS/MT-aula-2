@@ -58,12 +58,11 @@ y = E;
 while(y !=0){
     
     r = y%10;
-    y -= r;
     y = y/10;
     printf("%d" , r);
 }
-
 }
+  printf("\n");
 }
   
 
